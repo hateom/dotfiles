@@ -22,5 +22,8 @@ let g:clang_format#style_options = {
 autocmd FileType c,cpp,objc nnoremap <buffer><Leader>cf :<C-u>ClangFormat<CR>
 autocmd FileType c,cpp,objc vnoremap <buffer><Leader>cf :ClangFormat<CR>
 
+" set the relative number by default
 set relativenumber
+
+" don't hide the MarkDown special characters like asterisk and underscore
 set conceallevel=0
