@@ -32,3 +32,11 @@ let g:ycm_global_ycm_extra_conf = "~/Workspace/dotfiles/.ycm_extra_conf.py"
 let g:ycm_confirm_extra_conf=0
 
 let g:indent_guides_enable_on_vim_startup = 0
+autocmd FileType tagbar setlocal nocursorline nocursorcolumn
+
+"let g:airline_section_error = airline#section#create_right(['%{g:asyncrun_status}'])
+
+"colorscheme molokai
+nnoremap <Leader>m :make -C build<CR>
+nnoremap ; :
+
