@@ -36,7 +36,9 @@ autocmd FileType tagbar setlocal nocursorline nocursorcolumn
 
 "let g:airline_section_error = airline#section#create_right(['%{g:asyncrun_status}'])
 
-"colorscheme molokai
+colorscheme onedark
 nnoremap <Leader>m :make -C build<CR>
 nnoremap ; :
+
+let g:ackprg = 'ag --vimgrep'
 
