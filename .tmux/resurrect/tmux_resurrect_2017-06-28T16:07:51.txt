@@ -1,0 +1,6 @@
+pane	FalseColor	0	:..ease-gpu-full	0	:-	0	:/Users/hateom/Workspace/tomsfalsecolor/live_test	0	vim	:vim .
+pane	FalseColor	0	:..ease-gpu-full	0	:-	1	:/Users/hateom/Workspace/tomsfalsecolor/cmake-build-falsecolor-release-gpu-full	1	zsh	:
+pane	FalseColor	1	:~	1	:*	0	:/Users/hateom	1	zsh	:
+window	FalseColor	0	0	:-	8136,238x64,0,0{119x64,0,0,0,118x64,120,0,1}
+window	FalseColor	1	1	:*	c360,238x64,0,0,3
+state	FalseColor	

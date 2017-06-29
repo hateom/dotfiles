@@ -1,0 +1,4 @@
+pane	FalseColor	0	:~	1	:*	0	:/Users/hateom/Workspace/four-c-example	0	vim	:vim timer.cpp
+pane	FalseColor	0	:~	1	:*	1	:/Users/hateom	1	zsh	:
+window	FalseColor	0	1	:*	8136,238x64,0,0{119x64,0,0,0,118x64,120,0,1}
+state	FalseColor	
