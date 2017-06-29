@@ -1,4 +1,5 @@
 Bundle 'christoomey/vim-tmux-navigator'
 Bundle 'rhysd/vim-clang-format'
 Bundle 'skywind3000/asyncrun.vim'
+Bundle 'jlanzarotta/bufexplorer'
 UnBundle 'tpope/vim-cucumber'
