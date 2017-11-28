@@ -22,10 +22,12 @@ qlstephen
 quicklook-csv
 quicklook-json
 screenflow
+skype
 sourcetree
 sparkle
 sqlitestudio
 sublime-text
+transmission-remote-gui
 visual-studio-code-insiders
 vlc
 webpquicklook

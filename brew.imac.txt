@@ -46,6 +46,7 @@ git
 glew
 glfw
 glib
+glm
 gmp
 gmp@4
 gobject-introspection
@@ -149,6 +150,7 @@ seexpr
 shared-mime-info
 smartmontools
 sox
+spdlog
 speedtest-cli
 sqlite
 swig
